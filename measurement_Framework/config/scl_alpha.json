@@ -1,0 +1,13 @@
+{
+  "length": 0,
+  "length_units": "km",
+  "att_in": 0,
+  "con_in": 0,
+  "con_out": 0,
+  "type_variety": "SSMF",
+  "dispersion": 17e-6,
+  "pmd_coef": 1.265e-15,
+  "gamma": 0.0012,
+  "ref_frequency": {},
+  "loss_coef": {}
+}

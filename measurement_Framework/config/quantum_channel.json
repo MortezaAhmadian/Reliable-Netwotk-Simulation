@@ -1,0 +1,13 @@
+{
+  "num_of_ch": 750,
+  "quantum_bandwidth": 12.5e9,
+  "quantum_power": -80,
+  "baud_rate": 2e9,
+  "detectors_quantum_efficiency": 0.25,
+  "phase_distortion": 0.015,
+  "photon_per_pulse": 0.5,
+  "dark_count_rate": 1e-7,
+  "pulse_repetition_time": 1e-8,
+  "gate_interval_time": 1e-10,
+  "error_correction_inefficiency": 1.16
+}

@@ -1,0 +1,8 @@
+{
+  "channel_power": 0,
+  "classical_channel_bandwidth": 75e9,
+  "guard_bandwidth": 75e9,
+  "guard_power": -1000,
+  "baud_rate_classical_channel": 64e9,
+  "roll_off": 0.15
+}
